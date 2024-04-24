@@ -1,0 +1,67 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$KLLoNlu4vIw6G3bgTOEwMk$kEkF5eS45SN5iuSsUAhKJ0mIBr5W4fnjVVzc2aX/QBE=",
+      "last_login": "2024-04-24T14:40:14.488Z",
+      "is_superuser": true,
+      "first_name": "Admin",
+      "last_name": "SkyPro",
+      "is_staff": true,
+      "date_joined": "2024-04-23T14:18:25.888Z",
+      "email": "mezentsew@mail.ru",
+      "phone": null,
+      "avatar": "",
+      "country": null,
+      "verify_code": null,
+      "is_active": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$FQFAk1KvtEeV2pTnmMK1Ss$SGUGSfS3QY5tTp4A/c1XaDG2+VyRxZdHmRs3xyjORM0=",
+      "last_login": "2024-04-24T13:22:57.650Z",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "date_joined": "2024-04-23T14:23:51Z",
+      "email": "novorossiec2018@mail.ru",
+      "phone": null,
+      "avatar": "",
+      "country": null,
+      "verify_code": "LgbdjNoBZQBG",
+      "is_active": true,
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$BzYKOQL8XmO3TxMw1dhhUu$U8ifV191fDo+WvuI1RKOuHhEGwk0N8dSbshh0bauqL0=",
+      "last_login": "2024-04-23T16:39:27.881Z",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "date_joined": "2024-04-23T16:38:01.568Z",
+      "email": "andrey.mezentsew@gmail.com",
+      "phone": null,
+      "avatar": "",
+      "country": null,
+      "verify_code": "V7zMIcXBYmXs",
+      "is_active": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
